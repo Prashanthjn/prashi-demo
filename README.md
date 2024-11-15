@@ -1,3 +1,4 @@
+
 # prashi-demo
-this is my 1st git repository
-Aurhor-Prashanth J N
+this is my 1st git repository,
+Author-Prashanth J N
